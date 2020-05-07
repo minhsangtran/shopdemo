@@ -8,7 +8,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 
-<title>JAVACHALLENGE v1.0.1</title>
+<title>JAVAAAAAAAA</title>
 
 <!-- Bootstrap Core CSS -->
 <link
